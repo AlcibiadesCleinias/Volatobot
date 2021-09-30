@@ -30,7 +30,6 @@ def raise_appropriate_kraken_api_exception(errors: List[str]):  # todo: maybe it
 
 
 def extract_result(json_response):
-    print(json_response['error'])
     try:
         if not json_response['error']:
             if json_response['result']:
