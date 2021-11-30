@@ -1,3 +1,5 @@
+> I created a master branch and switched to the one as default coz of [pending features in origin](https://github.com/ArkadyBuryakov/Volatobot/pull/4) that I need now.
+
 # What it does?
 This is a cryptocurrency trading bot that sells coins on a pump and buys on a dump.
 Here is a basic concept of how it works:
